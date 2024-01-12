@@ -1,2 +1,2 @@
 # Brunt Vaisala frequency 
-Buoyanacy oscillation of parcel in stratified fluid
+Buoyanacy oscillation  in a stratified fluid
